@@ -6,7 +6,6 @@
 import PyPDF2
 import sys
 
-
 #get the file name from terminal
 path = sys.argv[1]
 
